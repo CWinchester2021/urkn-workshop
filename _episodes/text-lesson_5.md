@@ -17,4 +17,5 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-Summarise or recap the main elements and takeaway messages/skills you want participants to have learned in your workshop and finish up the session - using whatever activities or formats you think your participants will find useful.
+Summarise or recap the main elements and takeaway messages/skills you want participants to have learned in your workshop and finish up the session - using whatever activities or formats you think your participants will find useful. Ask some follow up questions about who would consider pre-registration and whether people would be interested in another session on how to set up pre-registration.
+
